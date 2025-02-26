@@ -1,0 +1,15 @@
+create an article in the following format
+
+<!-- article-content.html -->
+<style></style>
+<h1>Sample Article Title</h1>
+<p class="lead">This is an introduction to the article content.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+<!-- Add more content as needed -->
+
+by picking a {topic} related topic from the following link
+https://tax.gov.ae/en/default.aspx
+
+the article's purpose is to educate the user and therefore pick a topic which is relevant to the company named
+{company_name}, which is a {compnay_desciption}. Make the article personalized and friendly.
+Use style and color that fit the company.if pictures are needed provide a link to the picture, use one that fit topic from web. 
