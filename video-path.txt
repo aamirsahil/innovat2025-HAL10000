@@ -1,0 +1,2 @@
+# video-path.txt
+assets/video/sample.mp4
