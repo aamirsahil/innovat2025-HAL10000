@@ -115,3 +115,7 @@ footer {
     font-size: 1.1rem;
     margin-bottom: 1.5rem;
 }
+
+.navbar-brand .align-middle {
+    vertical-align: middle;
+}
