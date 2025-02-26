@@ -137,11 +137,6 @@
         }
         }
 
-
-        // Swipe detection
-        let touchstartX = 0;
-        let touchendX = 0;
-
         // Update the script section with carousel initialization
         const carousel = new bootstrap.Carousel(document.getElementById('carousel'));
 
@@ -154,29 +149,6 @@
             carousel.next();
         });
 
-        // Keep existing swipe detection code
-        document.addEventListener('touchstart', e => {
-            touchstartX = e.changedTouches[0].screenX;
-        });
-
-        document.addEventListener('touchend', e => {
-            touchendX = e.changedTouches[0].screenX;
-            
-            if (touchendX < touchstartX - 50) carousel.next();
-            if (touchendX > touchstartX + 50) carousel.prev();
-        });
-
-        document.addEventListener('touchstart', e => {
-            touchstartX = e.changedTouches[0].screenX;
-        });
-
-        document.addEventListener('touchend', e => {
-            touchendX = e.changedTouches[0].screenX;
-            const carousel = new bootstrap.Carousel(document.getElementById('carousel'));
-            
-            if (touchendX < touchstartX - 50) carousel.next();
-            if (touchendX > touchstartX + 50) carousel.prev();
-        });
     </script>
 </body>
 </html>
