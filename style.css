@@ -1,0 +1,12 @@
+/* styles.css */
+.carousel-item {
+    transition: transform 0.3s ease-in-out;
+}
+
+.list-group-item {
+    text-align: left;
+}
+
+#video-player {
+    max-height: 80vh;
+}
