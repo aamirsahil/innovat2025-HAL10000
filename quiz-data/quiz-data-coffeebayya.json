@@ -1,99 +1,99 @@
 [
     {
-      "question": "What is the standard VAT rate in the UAE?",
+      "question": "What is the Corporate Tax rate for taxable income exceeding AED 375,000 in the UAE?",
       "answers": [
         {"text": "0%", "correct": false},
-        {"text": "5%", "correct": true},
-        {"text": "10%", "correct": false},
+        {"text": "5%", "correct": false},
+        {"text": "9%", "correct": true},
         {"text": "15%", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "Which authority is responsible for administering VAT in the UAE?",
+      "question": "When did the UAE's Corporate Tax Law come into effect?",
       "answers": [
-        {"text": "Federal Tax Authority", "correct": true},
-        {"text": "Ministry of Finance", "correct": false},
-        {"text": "Central Bank of the UAE", "correct": false},
-        {"text": "Ministry of Economy", "correct": false}
+        {"text": "January 1, 2022", "correct": false},
+        {"text": "June 1, 2023", "correct": true},
+        {"text": "December 31, 2023", "correct": false},
+        {"text": "March 1, 2024", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "What is the mandatory VAT registration threshold for businesses in the UAE?",
+      "question": "What is the revenue threshold for Small Business Relief eligibility under the UAE Corporate Tax Law?",
       "answers": [
-        {"text": "AED 187,500", "correct": false},
-        {"text": "AED 375,000", "correct": true},
-        {"text": "AED 500,000", "correct": false},
-        {"text": "AED 1,000,000", "correct": false}
+        {"text": "AED 1 million", "correct": false},
+        {"text": "AED 2 million", "correct": false},
+        {"text": "AED 3 million", "correct": true},
+        {"text": "AED 4 million", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "Why is it important for businesses to follow ethical tax practices?",
+      "question": "Why is it ethically important for businesses like CoffeeBayya to comply with tax regulations?",
       "answers": [
-        {"text": "It contributes to national development and public services", "correct": true},
-        {"text": "It allows businesses to avoid paying taxes", "correct": false},
-        {"text": "It helps conceal profits for competitive advantage", "correct": false},
-        {"text": "It encourages tax evasion strategies", "correct": false}
+        {"text": "To avoid legal consequences", "correct": false},
+        {"text": "To contribute fairly to public services and infrastructure", "correct": true},
+        {"text": "To reduce operational costs", "correct": false},
+        {"text": "To gain a competitive advantage", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "Which practice is considered unethical in managing tax obligations?",
+      "question": "How does accurate tax reporting reflect on a company's ethical standards?",
       "answers": [
-        {"text": "Accurately reporting all income", "correct": false},
-        {"text": "Falsifying tax documents to reduce liabilities", "correct": true},
-        {"text": "Consulting with tax professionals", "correct": false},
-        {"text": "Maintaining transparent financial records", "correct": false}
+        {"text": "It shows a commitment to transparency and integrity", "correct": true},
+        {"text": "It increases profit margins", "correct": false},
+        {"text": "It allows for tax evasion", "correct": false},
+        {"text": "It reduces the need for financial audits", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "How does transparent tax reporting benefit a business?",
+      "question": "What is the ethical implication of underreporting income for tax purposes?",
       "answers": [
-        {"text": "It builds trust with customers and regulatory authorities", "correct": true},
-        {"text": "It increases the risk of audits", "correct": false},
-        {"text": "It allows competitors to access sensitive data", "correct": false},
-        {"text": "It encourages unethical tax avoidance", "correct": false}
+        {"text": "It is a legitimate business strategy", "correct": false},
+        {"text": "It undermines trust and is considered fraudulent", "correct": true},
+        {"text": "It has no significant impact", "correct": false},
+        {"text": "It is encouraged to reduce tax liability", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "What is a common consequence for a business that files VAT returns late in the UAE?",
+      "question": "What is the immediate penalty for late payment of VAT in the UAE?",
       "answers": [
-        {"text": "Late filing penalties", "correct": true},
-        {"text": "Tax refund", "correct": false},
-        {"text": "Tax exemption", "correct": false},
-        {"text": "Increased profit margins", "correct": false}
+        {"text": "1% of the unpaid tax per day", "correct": false},
+        {"text": "2% of the unpaid tax immediately after the due date", "correct": true},
+        {"text": "5% of the unpaid tax per week", "correct": false},
+        {"text": "10% of the unpaid tax per month", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "Which scenario might result in a tax penalty for a diligent business like CoffeeBayya?",
+      "question": "After how many days does an additional 4% monthly penalty apply for unpaid VAT in the UAE?",
       "answers": [
-        {"text": "Submitting tax returns on time", "correct": false},
-        {"text": "Consistently maintaining accurate records", "correct": false},
-        {"text": "Repeatedly missing tax filing deadlines", "correct": true},
-        {"text": "Consulting with tax experts", "correct": false}
+        {"text": "7 days after the due date", "correct": true},
+        {"text": "14 days after the due date", "correct": false},
+        {"text": "30 days after the due date", "correct": false},
+        {"text": "60 days after the due date", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"
     },
     {
-      "question": "What is the primary objective of imposing tax penalties?",
+      "question": "What is the maximum cap on the total late payment penalties for VAT in the UAE?",
       "answers": [
-        {"text": "To promote timely and accurate tax compliance", "correct": true},
-        {"text": "To reward non-compliance", "correct": false},
-        {"text": "To decrease government revenue", "correct": false},
-        {"text": "To increase business profits", "correct": false}
+        {"text": "100% of the unpaid tax", "correct": true},
+        {"text": "50% of the unpaid tax", "correct": false},
+        {"text": "25% of the unpaid tax", "correct": false},
+        {"text": "10% of the unpaid tax", "correct": false}
       ],
       "errorMessage": "Incorrect! Please try again.",
       "successMessage": "Correct! Well done!"

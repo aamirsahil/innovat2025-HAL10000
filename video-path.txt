@@ -1,2 +1,1 @@
-# video-path.txt
 assets/videos/sample.mp4
