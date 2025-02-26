@@ -1,4 +1,23 @@
 /* styles.css */
+/* Add these new styles */
+body {
+    min-height: 100vh;
+}
+
+.carousel {
+    flex: 1;
+    overflow: hidden;
+}
+
+.navbar {
+    flex-shrink: 0;
+}
+
+footer {
+    flex-shrink: 0;
+}
+
+/* Existing styles */
 .carousel-item {
     transition: transform 0.3s ease-in-out;
 }
@@ -8,5 +27,21 @@
 }
 
 #video-player {
-    max-height: 80vh;
+    max-height: 60vh;
+}
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 1rem;
+    }
+    
+    .navbar img {
+        width: 25px;
+        height: 25px;
+    }
+    
+    footer small {
+        font-size: 0.8rem;
+    }
 }
