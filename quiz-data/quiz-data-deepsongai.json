@@ -1,0 +1,102 @@
+[
+    {
+      "question": "What is the standard VAT rate in the UAE?",
+      "answers": [
+        {"text": "0%", "correct": false},
+        {"text": "5%", "correct": true},
+        {"text": "10%", "correct": false},
+        {"text": "15%", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "What is the mandatory VAT registration threshold in the UAE?",
+      "answers": [
+        {"text": "AED 187,500", "correct": false},
+        {"text": "AED 375,000", "correct": true},
+        {"text": "AED 500,000", "correct": false},
+        {"text": "AED 1,000,000", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which authority is responsible for administering VAT in the UAE?",
+      "answers": [
+        {"text": "UAE Central Bank", "correct": false},
+        {"text": "Ministry of Economy", "correct": false},
+        {"text": "Federal Tax Authority", "correct": true},
+        {"text": "Ministry of Finance", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which of the following is a primary ethical reason for businesses to comply with tax laws?",
+      "answers": [
+        {"text": "To ensure they pay their fair share for public services", "correct": true},
+        {"text": "To avoid paying any taxes at all", "correct": false},
+        {"text": "To exploit loopholes for higher profits", "correct": false},
+        {"text": "To gain an unfair advantage over competitors", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "What does tax transparency primarily contribute to in a business context?",
+      "answers": [
+        {"text": "Confusing customers", "correct": false},
+        {"text": "Increasing secrecy", "correct": false},
+        {"text": "Building trust with stakeholders", "correct": true},
+        {"text": "Hiding financial information", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which of the following practices is considered unethical in managing tax obligations?",
+      "answers": [
+        {"text": "Timely and accurate tax reporting", "correct": false},
+        {"text": "Falsifying tax documents", "correct": true},
+        {"text": "Consulting with tax professionals", "correct": false},
+        {"text": "Maintaining detailed financial records", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "What penalty might a business face for failing to file VAT returns on time?",
+      "answers": [
+        {"text": "Tax exemption", "correct": false},
+        {"text": "Late filing penalties", "correct": true},
+        {"text": "Bonus for promptness", "correct": false},
+        {"text": "Automatic refund", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Why are financial penalties imposed for non-compliance with VAT regulations?",
+      "answers": [
+        {"text": "They compensate for lost revenue needed for public services", "correct": true},
+        {"text": "They are a reward for compliant companies", "correct": false},
+        {"text": "They are imposed regardless of non-compliance", "correct": false},
+        {"text": "They increase overall business profits", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which of the following actions could lead to a tax penalty for a company like DeepSongAI?",
+      "answers": [
+        {"text": "Timely submission of VAT returns", "correct": false},
+        {"text": "Accurate record keeping", "correct": false},
+        {"text": "Repeated non-compliance with tax filing deadlines", "correct": true},
+        {"text": "Consulting a tax professional", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    }
+  ]
+  

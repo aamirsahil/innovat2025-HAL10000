@@ -1,0 +1,18 @@
+create a json in the following format with 9 mcq questions in the following format
+
+{
+    "question": "What is the capital of France?",
+    "answers": [
+        {"text": "London", "correct": false},
+        {"text": "Paris", "correct": true},
+        {"text": "Berlin", "correct": false}
+    ],
+    "errorMessage": "Incorrect! Please try again.",
+    "successMessage": "Correct! Well done!"
+}
+
+from the following link https://tax.gov.ae/en/default.aspx
+
+the article's purpose is to educate the user of UAE tax laws therefore pick a topic which is relevant to the company named
+{company_name}, which is a {compnay_desciption} who is {company_behavior} when it come to tax payment.
+questions should include 3 basic tax law related question, 3 tax ethics related question and 3 question regarding tax penalty

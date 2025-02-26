@@ -1,0 +1,101 @@
+[
+    {
+      "question": "What is the standard VAT rate in the UAE?",
+      "answers": [
+        {"text": "0%", "correct": false},
+        {"text": "5%", "correct": true},
+        {"text": "10%", "correct": false},
+        {"text": "15%", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which authority is responsible for administering VAT in the UAE?",
+      "answers": [
+        {"text": "Federal Tax Authority", "correct": true},
+        {"text": "Ministry of Finance", "correct": false},
+        {"text": "Central Bank of the UAE", "correct": false},
+        {"text": "Ministry of Economy", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "What is the mandatory VAT registration threshold for businesses in the UAE?",
+      "answers": [
+        {"text": "AED 187,500", "correct": false},
+        {"text": "AED 375,000", "correct": true},
+        {"text": "AED 500,000", "correct": false},
+        {"text": "AED 1,000,000", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Why is it important for businesses to follow ethical tax practices?",
+      "answers": [
+        {"text": "It contributes to national development and public services", "correct": true},
+        {"text": "It allows businesses to avoid paying taxes", "correct": false},
+        {"text": "It helps conceal profits for competitive advantage", "correct": false},
+        {"text": "It encourages tax evasion strategies", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which practice is considered unethical in managing tax obligations?",
+      "answers": [
+        {"text": "Accurately reporting all income", "correct": false},
+        {"text": "Falsifying tax documents to reduce liabilities", "correct": true},
+        {"text": "Consulting with tax professionals", "correct": false},
+        {"text": "Maintaining transparent financial records", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "How does transparent tax reporting benefit a business?",
+      "answers": [
+        {"text": "It builds trust with customers and regulatory authorities", "correct": true},
+        {"text": "It increases the risk of audits", "correct": false},
+        {"text": "It allows competitors to access sensitive data", "correct": false},
+        {"text": "It encourages unethical tax avoidance", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "What is a common consequence for a business that files VAT returns late in the UAE?",
+      "answers": [
+        {"text": "Late filing penalties", "correct": true},
+        {"text": "Tax refund", "correct": false},
+        {"text": "Tax exemption", "correct": false},
+        {"text": "Increased profit margins", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "Which scenario might result in a tax penalty for a diligent business like CoffeeBayya?",
+      "answers": [
+        {"text": "Submitting tax returns on time", "correct": false},
+        {"text": "Consistently maintaining accurate records", "correct": false},
+        {"text": "Repeatedly missing tax filing deadlines", "correct": true},
+        {"text": "Consulting with tax experts", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    },
+    {
+      "question": "What is the primary objective of imposing tax penalties?",
+      "answers": [
+        {"text": "To promote timely and accurate tax compliance", "correct": true},
+        {"text": "To reward non-compliance", "correct": false},
+        {"text": "To decrease government revenue", "correct": false},
+        {"text": "To increase business profits", "correct": false}
+      ],
+      "errorMessage": "Incorrect! Please try again.",
+      "successMessage": "Correct! Well done!"
+    }
+  ]  
