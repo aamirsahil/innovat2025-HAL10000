@@ -7,10 +7,12 @@ body {
 .carousel {
     flex: 1;
     overflow: hidden;
+    z-index: 0;
 }
 
 .navbar {
     flex-shrink: 0;
+    z-index: 100;
 }
 
 footer {
@@ -52,7 +54,7 @@ footer {
     transform: translateY(-50%);
     width: 100%;
     pointer-events: none;
-    z-index: 100;
+    z-index: 0;
 }
 
 .carousel-control-prev,
@@ -83,10 +85,12 @@ footer {
     background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z'/%3e%3c/svg%3e");
     width: 1.5rem;
     height: 1.5rem;
+    z-index: 0;
 }
 
 .carousel-control-next-icon {
     transform: rotate(180deg);
+    z-index: 0;
 }
 
 @media (max-width: 768px) {
@@ -118,4 +122,5 @@ footer {
 
 .navbar-brand .align-middle {
     vertical-align: middle;
+    z-index: 10;
 }
